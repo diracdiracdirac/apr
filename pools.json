@@ -1,5 +1,9 @@
 [
     {
+        "pool_name": "Stables Pool",
+        "daily_volume": "219785.1450319414410875755"
+    },
+    {
         "pool_name": "Frax Pool",
         "daily_volume": "58330.4933215389898284585"
     },
