@@ -1022,5 +1022,69 @@
             "apr": "38%",
             "second_apr": ""
         }
+    ],
+    [
+        {
+            "time": 1649544654.3824186,
+            "date": "Saturday, April 09, 2022 10:50:54"
+        },
+        {
+            "pool_name": "Stables Pool",
+            "daily_volume": "219785.1450319414410875755"
+        },
+        {
+            "pool_name": "Frax Pool",
+            "daily_volume": "58330.4933215389898284585"
+        },
+        {
+            "pool_name": "UST Pool",
+            "daily_volume": "154029.3814932276884620255"
+        },
+        {
+            "pool_name": "BUSD Pool",
+            "daily_volume": "3741.1301541512392039"
+        },
+        {
+            "name": "Stables Farm",
+            "farm_address": "0x52CACa9a2D52b27b28767d3649565774A3B991f3",
+            "apr": "26%",
+            "second_apr": ""
+        },
+        {
+            "name": "Frax Farm",
+            "farm_address": "0xB9D873cDc15e462f5414CCdFe618a679a47831b4",
+            "apr": "35%",
+            "second_apr": ""
+        },
+        {
+            "name": "UST Farm",
+            "farm_address": "0x56DE5E2c25828040330CEF45258F3FFBc090777C",
+            "apr": "13%",
+            "second_apr": "15%"
+        },
+        {
+            "name": "ROSE/FRAX PLP Farm",
+            "farm_address": "0x1B10bFCd6192edC573ced7Db7c7e403c7FAb8068",
+            "apr": "75%",
+            "second_apr": ""
+        },
+        {
+            "name": "ROSE/PAD PLP Farm",
+            "farm_address": "0x9b2aE7d53099Ec64e2f6df3B4151FFCf7205f788",
+            "apr": "35%",
+            "second_apr": ""
+        },
+        {
+            "name": "BUSD Farm",
+            "farm_address": "0x18A6115150A060F22Bacf62628169ee9b231368f",
+            "apr": "30%",
+            "second_apr": ""
+        },
+        {
+            "name": "MAI Farm",
+            "farm_address": "0x226991aADeEfDe03bF557eF067da95fc613aBfFc",
+            "apr": "34%",
+            "second_apr": ""
+        }
     ]
 ]
