@@ -42,8 +42,12 @@ pools = {
         "contract_name": "BUSDPool"
     },
     "MAI Pool": {
-        "pool_address": "0x65a761136815B45A9d78d9781d22d47247B49D23",
+        "pool_address": "0x65a761136815b45a9d78d9781d22d47247b49d23",
         "contract_name": "MAIPool"
+    },
+    "RUSD Pool": {
+        "pool_address": "0x79b0a67a4045a7a8dc04b17456f4fe15339cba34",
+        "contract_name": "RUSDPool"
     }
 }
 
@@ -91,6 +95,12 @@ lpAddresses = {
         "farm_address": "0x226991aADeEfDe03bF557eF067da95fc613aBfFc",
         "this_months_rewards": 31444.00,
         "pool_address": pools["MAI Pool"]["pool_address"]
+    },
+    "RUSD Farm" : {
+        "deposited_token_address": "0x56f87a0cB4713eB513BAf57D5E81750433F5fcB9",
+        "farm_address": "0x9286d58C1c8d434Be809221923Cf4575f7A4d058",
+        "this_months_rewards": 857143.00,
+        "pool_address": pools["RUSD Pool"]["pool_address"]
     }
 }
 
@@ -188,7 +198,7 @@ for poolName, poolPayload in pools.items():
     print("making query: ", query)
     try:
         result = requests.post(
-            "https://api.thegraph.com/subgraphs/name/roseonaurora/rose2",
+            "https://api.thegraph.com/subgraphs/name/roseonaurora/rose",
             json={"query": query}
         )
         result = json.loads(result.text)['data'][poolPayload["contract_name"]][0]
@@ -256,7 +266,7 @@ for farmName, payload in lpAddresses.items():
         pass
 
     # calculate virtual price and TVL
-    if farmName == "Stables Farm" or farmName == "Frax Farm" or farmName == "UST Farm" or farmName == "BUSD Farm" or farmName == "MAI Farm":
+    if farmName == "Stables Farm" or farmName == "Frax Farm" or farmName == "UST Farm" or farmName == "BUSD Farm" or farmName == "MAI Farm" or farmName == "RUSD Farm":
         virtualPrice = rose_price
         # assume LP token = $1
         virtualPrice = 1.0
