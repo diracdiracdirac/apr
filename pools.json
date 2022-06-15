@@ -1,11 +1,11 @@
 [
     {
         "pool_name": "Stables Pool",
-        "daily_volume": "87498.974998017081478437"
+        "daily_volume": "138601.995790840081785694"
     },
     {
         "pool_name": "Frax Pool",
-        "daily_volume": "1647.4099539411686582915"
+        "daily_volume": "14268.0681450903797209105"
     },
     {
         "pool_name": "UST Pool",
@@ -13,14 +13,14 @@
     },
     {
         "pool_name": "BUSD Pool",
-        "daily_volume": "4110.5537233284080888005"
+        "daily_volume": "10272.6451262868797826205"
     },
     {
         "pool_name": "MAI Pool",
-        "daily_volume": "558.6935960569112294165"
+        "daily_volume": "798.894595602149681821"
     },
     {
         "pool_name": "RUSD Pool",
-        "daily_volume": "4162.1918355464469249945"
+        "daily_volume": "8877.1058224239418182195"
     }
 ]
