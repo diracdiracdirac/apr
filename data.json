@@ -37,7 +37,7 @@
         "apr": "7%",
         "second_rewards_token": "atLUNA",
         "second_apr": "0%",
-        "second_token_price": "5.939e-05",
+        "second_token_price": "5.93e-05",
         "second_rewards_per_second": "0.00013387345679012348",
         "second_rewards_token_address": "0xC4bdd27c33ec7daa6fcfd8532ddB524Bf4038096"
     },
@@ -87,7 +87,7 @@
         "name": "MAI Farm",
         "deposited_token_address": "0xA7ae42224Bf48eCeFc5f838C230EE339E5fd8e62",
         "farm_address": "0x226991aADeEfDe03bF557eF067da95fc613aBfFc",
-        "farm_tvl": "33955367037421019244294",
+        "farm_tvl": "33956629094149789139880",
         "deposited_token_price": "1.0",
         "rewards_per_second": "0.012131172839506174",
         "apr": "7%",
