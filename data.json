@@ -37,7 +37,7 @@
         "apr": "25%",
         "second_rewards_token": "atLUNA",
         "second_apr": "0%",
-        "second_token_price": "0.00011138",
+        "second_token_price": "0.00011129",
         "second_rewards_per_second": "0.00013387345679012348",
         "second_rewards_token_address": "0xC4bdd27c33ec7daa6fcfd8532ddB524Bf4038096"
     },
@@ -60,7 +60,7 @@
         "deposited_token_address": "0xC6C3cc84EabD4643C382C988fA2830657fc70a6B",
         "farm_address": "0x9b2aE7d53099Ec64e2f6df3B4151FFCf7205f788",
         "farm_tvl": "72358000000000000000000",
-        "deposited_token_price": "0.0697704514555018",
+        "deposited_token_price": "0.06977045145760294",
         "rewards_per_second": "0.07961149691358024",
         "apr": "17%",
         "second_rewards_token": "",
