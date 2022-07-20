@@ -1,11 +1,11 @@
 [
     {
-        "price_of_rose": "0.005187094629294356",
-        "price_of_strose": "0.005416072448585733",
+        "price_of_rose": "0.005166074697438336",
+        "price_of_strose": "0.0053941246180692825",
         "strose_rose_ratio": "1.0441437520723478",
-        "strose_tvl": "103260000000000000000000",
-        "strose_apr": "3.0%",
+        "strose_tvl": "102842000000000000000000",
+        "strose_apr": "4.4%",
         "total_rose_staked": "19907172120878931263994079",
-        "total_daily_volume": "33338.48154411507"
+        "total_daily_volume": "49606.82699437317"
     }
 ]
