@@ -12,7 +12,15 @@
         "daily_volume": "12438.297782729621381491"
     },
     {
+        "pool_name": "BUSD Pool",
+        "daily_volume": "230.48773661231815742"
+    },
+    {
         "pool_name": "MAI Pool",
         "daily_volume": "5019.202441708958217571"
+    },
+    {
+        "pool_name": "RUSD Pool",
+        "daily_volume": "10965.29250696270543939"
     }
 ]
