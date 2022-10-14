@@ -15116,5 +15116,83 @@
             "apr": "22%",
             "second_apr": ""
         }
+    ],
+    [
+        {
+            "time": 1665776514.1046712,
+            "date": "Friday, October 14, 2022 07:41:54"
+        },
+        {
+            "pool_name": "Stables Pool",
+            "daily_volume": "616.53547817874133151"
+        },
+        {
+            "pool_name": "Frax Pool",
+            "daily_volume": "1457.165503731716926546"
+        },
+        {
+            "pool_name": "UST Pool",
+            "daily_volume": "0"
+        },
+        {
+            "pool_name": "BUSD Pool",
+            "daily_volume": "4005.034281333654872314"
+        },
+        {
+            "pool_name": "MAI Pool",
+            "daily_volume": "131.660054933869156359"
+        },
+        {
+            "pool_name": "RUSD Pool",
+            "daily_volume": "94.176369294682970592"
+        },
+        {
+            "name": "Stables Farm",
+            "farm_address": "0x52CACa9a2D52b27b28767d3649565774A3B991f3",
+            "apr": "10%",
+            "second_apr": ""
+        },
+        {
+            "name": "Frax Farm",
+            "farm_address": "0xB9D873cDc15e462f5414CCdFe618a679a47831b4",
+            "apr": "13%",
+            "second_apr": ""
+        },
+        {
+            "name": "UST Farm",
+            "farm_address": "0x56DE5E2c25828040330CEF45258F3FFBc090777C",
+            "apr": "10%",
+            "second_apr": "0%"
+        },
+        {
+            "name": "ROSE/FRAX PLP Farm",
+            "farm_address": "0x1B10bFCd6192edC573ced7Db7c7e403c7FAb8068",
+            "apr": "143%",
+            "second_apr": ""
+        },
+        {
+            "name": "ROSE/PAD PLP Farm",
+            "farm_address": "0x9b2aE7d53099Ec64e2f6df3B4151FFCf7205f788",
+            "apr": "14%",
+            "second_apr": ""
+        },
+        {
+            "name": "BUSD Farm",
+            "farm_address": "0x18A6115150A060F22Bacf62628169ee9b231368f",
+            "apr": "13%",
+            "second_apr": ""
+        },
+        {
+            "name": "MAI Farm",
+            "farm_address": "0x226991aADeEfDe03bF557eF067da95fc613aBfFc",
+            "apr": "13%",
+            "second_apr": ""
+        },
+        {
+            "name": "RUSD Farm",
+            "farm_address": "0x9286d58C1c8d434Be809221923Cf4575f7A4d058",
+            "apr": "22%",
+            "second_apr": ""
+        }
     ]
 ]
